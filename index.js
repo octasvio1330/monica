@@ -8,8 +8,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 //ESCRIBIR LO QUE PASARA EN CASO DE QUE SÍ
 yesBtn.addEventListener('click', function(){
-    alert('Siempre supe que aceptarias'); //Puedes mandar los mensajes que quieras
-    location.href = 'https://www.youtube.com/watch?v=0uZdFmbGGaU'; //Cambiar el URL en YouTube de la canción que quieras 
+    alert('Te amo con todo mi corazon vieja nalgona y hermosa 💖'); //Puedes mandar los mensajes que quieras
+    location.href = 'https://www.youtube.com/watch?v=xovXSMcglE4&ab_channel=LaEmpresaPromotions'; //Cambiar el URL en YouTube de la canción que quieras 
 });
 
 const noBtn = document.querySelector('#noBtn');
